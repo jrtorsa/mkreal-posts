@@ -38,7 +38,9 @@ function App() {
         <Button primary>Descendente</Button>
         </Grid.Row>
       </Grid>
-      {data.map((post) => (
+      {data.sort(function (a,b){
+        return b.votes - a.votes
+      }).map((post) => (
         <Grid key={post.id} columns={3}>
           <Grid.Column>
             <Image src={post.post_image_url} size="medium" />

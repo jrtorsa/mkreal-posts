@@ -5,6 +5,7 @@ import { Container, Header, Grid, Image, Icon, Button } from "semantic-ui-react"
 function App() {
 
   const [counter, setCounter] = useState(1)
+  const [sorted, setSorted] = useState('')
 
   const onIncrement = id => {
     const vote = data.map( post => {
@@ -26,6 +27,17 @@ function App() {
     setCounter(vote)
   }
 
+  const sortType = (str) => {
+    const ascSort = data.sort((a,b) => {
+      if(str === 'asc'){
+        return a.votes - b.votes
+      }
+      return ascSort
+    })
+    setSorted('asc')
+    return ascSort
+  }
+
   return (
     <Container>
       <Header as="h1" textAlign="center" dividing>
@@ -34,7 +46,7 @@ function App() {
       <Grid>
         <Grid.Row>
           <p style={{padding: '10px 10px 0px 0px', fontWeight: 'bold'}}>Orden: </p>
-        <Button primary basic>Ascendete</Button>
+        <Button onClick={() => sortType('asc')} primary basic>Ascendete</Button>
         <Button primary>Descendente</Button>
         </Grid.Row>
       </Grid>

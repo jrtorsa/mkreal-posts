@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/jrtorsa/mkreal-posts/static/js/main.9599bb5f.chunk.js",
-    "main.js.map": "/jrtorsa/mkreal-posts/static/js/main.9599bb5f.chunk.js.map",
-    "runtime-main.js": "/jrtorsa/mkreal-posts/static/js/runtime-main.e05299e1.js",
-    "runtime-main.js.map": "/jrtorsa/mkreal-posts/static/js/runtime-main.e05299e1.js.map",
-    "static/css/2.0234461b.chunk.css": "/jrtorsa/mkreal-posts/static/css/2.0234461b.chunk.css",
-    "static/js/2.b8e963ff.chunk.js": "/jrtorsa/mkreal-posts/static/js/2.b8e963ff.chunk.js",
-    "static/js/2.b8e963ff.chunk.js.map": "/jrtorsa/mkreal-posts/static/js/2.b8e963ff.chunk.js.map",
-    "static/js/3.5bfa6bf4.chunk.js": "/jrtorsa/mkreal-posts/static/js/3.5bfa6bf4.chunk.js",
-    "static/js/3.5bfa6bf4.chunk.js.map": "/jrtorsa/mkreal-posts/static/js/3.5bfa6bf4.chunk.js.map",
-    "index.html": "/jrtorsa/mkreal-posts/index.html",
-    "static/css/2.0234461b.chunk.css.map": "/jrtorsa/mkreal-posts/static/css/2.0234461b.chunk.css.map",
-    "static/js/2.b8e963ff.chunk.js.LICENSE.txt": "/jrtorsa/mkreal-posts/static/js/2.b8e963ff.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/jrtorsa/mkreal-posts/static/media/outline-icons.ddae9b1b.woff"
+    "main.js": "/mkreal-posts/static/js/main.9599bb5f.chunk.js",
+    "main.js.map": "/mkreal-posts/static/js/main.9599bb5f.chunk.js.map",
+    "runtime-main.js": "/mkreal-posts/static/js/runtime-main.932fc372.js",
+    "runtime-main.js.map": "/mkreal-posts/static/js/runtime-main.932fc372.js.map",
+    "static/css/2.c34c62a6.chunk.css": "/mkreal-posts/static/css/2.c34c62a6.chunk.css",
+    "static/js/2.b8e963ff.chunk.js": "/mkreal-posts/static/js/2.b8e963ff.chunk.js",
+    "static/js/2.b8e963ff.chunk.js.map": "/mkreal-posts/static/js/2.b8e963ff.chunk.js.map",
+    "static/js/3.5bfa6bf4.chunk.js": "/mkreal-posts/static/js/3.5bfa6bf4.chunk.js",
+    "static/js/3.5bfa6bf4.chunk.js.map": "/mkreal-posts/static/js/3.5bfa6bf4.chunk.js.map",
+    "index.html": "/mkreal-posts/index.html",
+    "static/css/2.c34c62a6.chunk.css.map": "/mkreal-posts/static/css/2.c34c62a6.chunk.css.map",
+    "static/js/2.b8e963ff.chunk.js.LICENSE.txt": "/mkreal-posts/static/js/2.b8e963ff.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/mkreal-posts/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e05299e1.js",
-    "static/css/2.0234461b.chunk.css",
+    "static/js/runtime-main.932fc372.js",
+    "static/css/2.c34c62a6.chunk.css",
     "static/js/2.b8e963ff.chunk.js",
     "static/js/main.9599bb5f.chunk.js"
   ]
